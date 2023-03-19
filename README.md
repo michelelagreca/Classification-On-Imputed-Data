@@ -28,5 +28,5 @@ the number of elements of that variable, while the accuracy for the numerical va
 imputed and the original one.
 
 ## Machine learning algorithms
-Since we have a classification problem, Logistic regression and Support vector machine will be used. To evaluate the performances of the chosen method, the confusion matrix will be calculated, as well as Accuracy, Precision, Recall and F1 score.
+Since we have a classification problem, Logistic regression and Support vector machine (SVM) will be used. To evaluate the performances of the chosen method, the confusion matrix will be calculated, as well as Accuracy, Precision, Recall and F1 score.
 
